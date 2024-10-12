@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello 👋, My name is Kelvin Wambua Mwanzia:
 🔭 I’m currently working on enhancing my web development skills and obtaining key certifications in cloud computing and networking.<br><br>🌱 I’m currently learning backend features, especially in REST APIs, to build more efficient and scalable applications.<br><br>👨‍💻 My portfolio website is https://kelvinwambua.framer.ai<br><br>💬 Ask me about web development, backend development, and cloud technologies.<br><br>📫 How to reach me:  wambuakelvin14@gmail.com
 
 
